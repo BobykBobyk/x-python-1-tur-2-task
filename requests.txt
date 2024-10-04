@@ -1,0 +1,25 @@
+щоб запустити програму:
+
+1.є Python на ПК
+
+2. скопіюйте файл main.py у свій idle, де встановлено python
+
+3.запустіть програму
+
+4. усі дії відбуватимуться в терміналі
+
+Дякую за увагу!
+
+-----------------------------------------------------------------------------
+
+to start the program:
+
+1.have python on pc
+
+2.copy file main.py in your idle which have python installed
+
+3.run the programm
+
+4.all of action will be in the terminal
+
+Thank you for your attention!
